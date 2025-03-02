@@ -1,7 +1,4 @@
-# ai-powered-email-crm-automation
-<iframe src="https://player.vimeo.com/video/1061848061?h=88bbaa1617&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="AI Email CRM Automation Clipchamp"></iframe>
-
-# 📧 AI-Powered Email Categorization & Automation   
+# 📧 AI-Powered Email Categorization, CRM, & Automation   
 
 This project automates email categorization, summarization, and response management using **n8n, Hugging Face API, and AI models**. It classifies emails into predefined categories, summarizes them, and allows users to **respond directly via Telegram**. The workflow also logs categorized emails into **Google Sheets** for tracking and management.
 
